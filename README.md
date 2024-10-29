@@ -5,7 +5,7 @@
 # oct 29 2024 
 
 # this is a guessing program 
-# user ask to give a randon number from 1 and 10 
+# user ask to give a random number from 1 and 10 
 # ask user to enter the guess
 # initialize users guess
 # add a loop funtion so the program doesnt end
