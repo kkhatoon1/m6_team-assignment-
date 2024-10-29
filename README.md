@@ -10,7 +10,6 @@
 # initialize users guess
 # add a loop funtion so the program doesnt end
 # ask user to enter guess
-# if number is valid then continue
 # if guess is lower than random number
 # ask user to guess higher
 # if guess is high than random number
