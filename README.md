@@ -4,7 +4,7 @@
 # david ramirez
 # oct 29 2024 
 
-# this is a guessing program 
+# this is a guessing program
 # user ask to give a random number from 1 and 10 
 # ask user to enter the guess
 # initialize users guess
