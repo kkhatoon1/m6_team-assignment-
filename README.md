@@ -14,5 +14,5 @@
 # ask user to guess higher
 # if guess is high than random number
 # ask user to guess lower 
-# if it matches the user random guess print ("you won")
+# if it matches the user random guess print well done, you guessed it.
 # program ends. 
