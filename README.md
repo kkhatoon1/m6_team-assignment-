@@ -6,9 +6,8 @@
 
 # this is a guessing program 
 # user ask to give a randon number from 1 and 10 
-# initialize users guess
 # ask user to enter the guess
-# convert users input to integer
+# initialize users guess
 # check if guess is lower 
 # ask user to guess higher
 # check if guess is high 
