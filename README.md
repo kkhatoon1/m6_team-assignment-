@@ -8,9 +8,9 @@
 # user ask to give a randon number from 1 and 10 
 # ask user to enter the guess
 # initialize users guess
-# check if guess is lower 
+# check if guess is lower than random number
 # ask user to guess higher
-# check if guess is high 
+# check if guess is high than random number
 # ask user to guess lower 
 # if it matches the user random guess print ("you won")
 # program ends. 
