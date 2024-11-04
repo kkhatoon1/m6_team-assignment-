@@ -11,6 +11,7 @@ while Anw > random_number:
     if Anw < 1 or Anw > 10:break 
     print(f"Please guess lower")
     Anw = int(input("Please guess a number between 1 and 10: "))
+    
 while Anw < random_number:
     if Anw < 1 or Anw > 10:break 
     print(f"Please guess higher")
